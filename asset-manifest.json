@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/photographer-portfolio20/static/css/main.90e75332.chunk.css",
+    "main.js": "/photographer-portfolio20/static/js/main.89e05fb4.chunk.js",
+    "main.js.map": "/photographer-portfolio20/static/js/main.89e05fb4.chunk.js.map",
+    "runtime-main.js": "/photographer-portfolio20/static/js/runtime-main.0f017d26.js",
+    "runtime-main.js.map": "/photographer-portfolio20/static/js/runtime-main.0f017d26.js.map",
+    "static/js/2.10521984.chunk.js": "/photographer-portfolio20/static/js/2.10521984.chunk.js",
+    "static/js/2.10521984.chunk.js.map": "/photographer-portfolio20/static/js/2.10521984.chunk.js.map",
+    "static/js/3.ff08ab87.chunk.js": "/photographer-portfolio20/static/js/3.ff08ab87.chunk.js",
+    "static/js/3.ff08ab87.chunk.js.map": "/photographer-portfolio20/static/js/3.ff08ab87.chunk.js.map",
+    "index.html": "/photographer-portfolio20/index.html",
+    "static/css/main.90e75332.chunk.css.map": "/photographer-portfolio20/static/css/main.90e75332.chunk.css.map",
+    "static/js/2.10521984.chunk.js.LICENSE.txt": "/photographer-portfolio20/static/js/2.10521984.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/photographer-portfolio20/static/media/0.b18c130d.jpg",
+    "static/media/1.jpg": "/photographer-portfolio20/static/media/1.ffe481f4.jpg",
+    "static/media/2.jpg": "/photographer-portfolio20/static/media/2.da4d6061.jpg",
+    "static/media/3.jpg": "/photographer-portfolio20/static/media/3.dd376ef9.jpg",
+    "static/media/4.jpg": "/photographer-portfolio20/static/media/4.ed3b1a69.jpg",
+    "static/media/cover-image.533ae8f6.jpg": "/photographer-portfolio20/static/media/cover-image.533ae8f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f017d26.js",
+    "static/js/2.10521984.chunk.js",
+    "static/css/main.90e75332.chunk.css",
+    "static/js/main.89e05fb4.chunk.js"
+  ]
+}
